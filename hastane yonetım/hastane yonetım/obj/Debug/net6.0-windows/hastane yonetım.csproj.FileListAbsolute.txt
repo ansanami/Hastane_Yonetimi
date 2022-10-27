@@ -1,0 +1,57 @@
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\hastane yonetım.exe
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\hastane yonetım.deps.json
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\hastane yonetım.runtimeconfig.json
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\hastane yonetım.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\hastane yonetım.pdb
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.csproj.AssemblyReference.cache
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.Properties.Resources.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.csproj.GenerateResource.cache
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.AssemblyInfoInputs.cache
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.AssemblyInfo.cs
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.csproj.CoreCompileInputs.cache
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\refint\hastane yonetım.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.pdb
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.genruntimeconfig.cache
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\ref\hastane yonetım.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.hastagırısekran.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.frmgirisler.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.doktorbılgıduzenle.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.doktordetay.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.doktorpanelı.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.frmbrans.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.frmbılgıduzenle.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.frmdoktorgiris.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.frmhastadetay.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.frmrandevulıstesı.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.hastakayıt.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.sekreterdetay.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane_yonetım.sekretergiris.resources
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EMİR\Source\Repos\hastane yonetım\hastane yonetım\obj\Debug\net6.0-windows\hastane yonetım.csproj.CopyComplete
